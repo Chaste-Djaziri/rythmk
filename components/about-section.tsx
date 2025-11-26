@@ -51,10 +51,10 @@ export default function AboutSection() {
             {/* Description */}
             <div className="space-y-3 sm:space-y-4">
               <p className="text-sm sm:text-base md:text-lg text-zinc-300 leading-relaxed">
-                Here For You
+                Rythmk is all about turning your words, ideas, and energy into music that feels alive.
               </p>
               <p className="text-xs sm:text-sm md:text-base text-zinc-400 leading-relaxed">
-                Creating experiences that resonate through sound, movement, and purpose. Every beat tells a story, every motion carries emotion.
+                Lyricists bring the heart, AI adds a spark of magic, and together we shape vibes you can actually feel. Whether it’s a story, a mood, or just a moment you want to capture, Rythmk blends human creativity with smart tech to bring your sound to life in a fresh, modern way.
               </p>
             </div>
 
